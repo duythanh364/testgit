@@ -7,7 +7,7 @@ package tech.model;
 
 /**
  *
- * @author myduy
+ * @author myduyqqqqqqq
  */
 public class HostConfig {
     private String host;
